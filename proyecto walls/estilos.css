@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+body	{background-image: url("7.jpg")}
+
+P1 	 	{Font-Family: "Vogue", sans-serif;font-size: 80px; color: #FFFFFF;text-align:center;}
+
+walls   {text-shadow: 1px 1px #666, 2px 2px #86D6D3, 3px 3px #666, 4px 4px #86D6D3;color: #ccc;}
+
+P2 	 	{Font-Family: "CaviarDreams", sans-serif;font-size: 30px; color: #FFFFFF;text-aling:center;}
+
+h2     { Font-Family: "Vogue", sans-serif;font-size: 80px; color: #761702;text-align:center;
+
+       text-shadow: -1px 0 #6E2010, 1px 0 #6E2010, 0 1px #6E2010, 0 -1px #6E2010;color: #4FC324;}
+       
+
+h3     { Font-Family: "Vogue", sans-serif;font-size: 30px; color: #6E2010;text-align:center;
+
+       text-shadow: -1px 0 #1B6E10, 1px 0 #1B6E10, 0 1px #1B6E10, 0 -1px #1B6E10;color: #C33524;}
+       
+
+
+body1    {background-image: url("8.jpg")}
+
+.lol     {background-image: url("22.jpg")}
+
+.sofi     {background-image: url("25.png")}
+
+h4     { Font-Family: "Vogue", sans-serif;font-size: 50px; color: #761702;text-align:center;
+
+       text-shadow: -1px 0 #090, 1px 0 #090, 0 1px #090, 0 -1px #090;color: #fff;}
+       
+h5     { Font-Family: "Vogue", sans-serif;font-size: 50px; color: #761702;text-align:center;
+
+       text-shadow: -1px 0 #443D33, 1px 0 #443D33, 0 1px #443D33, 0 -1px #443D33;color: #644111;}
+       
+.sofia     {background-image: url("29.jpg")}
+
+.sof    {background-image: url("31.jpg")}
+
+h6     { Font-Family: "Vogue", sans-serif;font-size: 30px; color: #761702;text-align:center;
+
+       text-shadow: -1px 0 #000000, 1px 0 #000000, 0 1px #000000, 0 -1px #000000;color: #FFFFFF;}
+       
+.polaroid { background-color:white;
+    padding:10px 10px 50px 10px;
+    border:1px solid #BFBFBF;
+    box-shadow:10px 10px 30px rgba(0, 0, 0, 0.8);}
+    
+h7 {text-shadow: 0 0 20px #fefcc9, 2px -2px 3px #feec85, -4px -4px 5px #ffae34, 5px -10px 6px #ec760c, -5px -12px 8px #cd4606, 0 -15px 20px #973716, 2px -15px 20px #451b0e;
+
+   color: #666;}
+
+h8  {Font-Family: "Vogue", sans-serif;font-size: 70px; color: #FA4040;text-shadow: 0px 0px 10px #FABF40,0px 0px 10px #F7EB38,/* Repetimos el resplandor */0px 0px 40px #FA4040,0px 0px 40px #FA4040,
+
+	0px 0px 40px #F7EB38;} 
+	
+.arcoiris {box-shadow: rgb(80, 91, 255) 0px 0px 0px 3px,
+
+         rgb(31, 193, 27) 0px 0px 0px 6px,
+
+    	 rgb(255, 217, 19) 0px 0px 0px 9px,
+
+   		 rgb(255, 156, 85) 0px 0px 0px 12px,
+
+    	 rgb(255, 85, 85) 0px 0px 0px 15px;}
+    	
+.lolo     {background-image: url("64.jpg")}
+
+h9  {Font-Family: "Vogue", sans-serif;font-size: 70px; color: #FA4040;text-shadow: 0px 0px 10px #FABF40,0px 0px 10px #F7EB38,/* Repetimos el resplandor */0px 0px 40px #FA4040,0px 0px 40px #FA4040,
+
+	0px 0px 40px #F7EB38;} 
+	
+#Spicy gommies {width: 10px;
+				height: 1opx;
+				Font-Family: "Vogue", sans-serif;
+				font-size: 70px; 
+				color: #FA4040;
+				text-shadow: 0px 0px 10px #FABF40,0px 0px 10px #F7EB38,/* Repetimos el resplandor */0px 0px 40px #FA4040,0px 0px 40px #FA4040,
+				0px 0px 40px #F7EB38;
+				animation-name: hola; 
+				animation-duration: 10s
+				animation-delay:5s;}
+	
+
+
+@Keyframe hola {
+	from {width: 10px; width: 10px; Font-Family: "Vogue", sans-serif;font-size: 70px; color: #FA4040;text-shadow: 0px 0px 10px #FABF40,0px 0px 10px #F7EB38,/* Repetimos el resplandor */0px 0px 40px #FA4040,0px 0px 40px #FA4040,
+			0px 0px 40px #F7EB38; } 
+	to   {Transform: rotate (359 deg);}
